@@ -2,6 +2,7 @@
 }
 
 .logo .logo-img {
+    height: 75px;
     border-radius: 50%;
 }
 
@@ -17893,7 +17894,7 @@ nav ul,nav ol {
 }
 
 #projectThumbs .project .project-image .intrinsic {
-    /* padding-bottom: 100%; */
+    padding-bottom: 100%;
     line-height: 0;
     text-align: center;
     position: relative;
@@ -18312,13 +18313,13 @@ html.touch #galleryWrapper .sqs-gallery-design-stacked-slide.sqs-active-slide {
     }
 
 
-    /* .logo-image .logo {
+    .logo-image .logo {
         height: 30px
-    } */
-/* 
+    }
+
     .logo-image .logo img {
         display: inline
-    } */
+    }
 
     .logo-subtitle {
         text-align: center
@@ -18415,7 +18416,7 @@ html.touch #galleryWrapper .sqs-gallery-design-stacked-slide.sqs-active-slide {
     }
 
     #projectThumbs .project .project-image .content-fill {
-        /* position: absolute; */
+        position: absolute;
         top: 0;
         left: 0;
         bottom: 0;
